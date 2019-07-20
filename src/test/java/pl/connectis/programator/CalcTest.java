@@ -26,6 +26,12 @@ public class CalcTest {
         assertEquals(5, calc.sum(2,3));
     }
 
+    @Test
+
+    void div(){
+
+    }
+
 
 
     @BeforeEach
@@ -91,6 +97,12 @@ public class CalcTest {
            // calc.mean()
         });
     }
+    @Test
+    void checkdiv(){
+        assertEquals(2.0, calc.div(4.0,2.0));
+    }
+
+
 
 
 

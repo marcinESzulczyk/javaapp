@@ -35,6 +35,10 @@ public class Calc {
         return a+b;
     }
 
+    public double div (double a, double b) {
+
+        return a/b;}
+
     public void clear(){
         stats.clear();
     }
