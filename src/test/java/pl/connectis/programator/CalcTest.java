@@ -102,6 +102,10 @@ public class CalcTest {
         assertEquals(2.0, calc.div(4.0,2.0));
     }
 
+    @Test
+    void checkdiv2(){
+        assertEquals(2.0, calc.div(4.0,2.0));
+    }
 
 
 
