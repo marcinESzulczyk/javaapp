@@ -49,8 +49,8 @@ public class Calc {
     }
 
     public double devided(double a, double b){
+        // komentarz dodany dla brancha
         if (b == 0) return 0.0;
         return a / b;
     }
-
 }
