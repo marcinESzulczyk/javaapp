@@ -107,12 +107,12 @@ public class CalcTest {
         assertEquals(2.0, calc.div(4.0,2.0));
     }
 
-
-
-
-
-
-
-
-
+    @Test
+    void checkDevidedMetod(){
+        assertAll(
+                ()-> assertEquals(0, calc.devided(1, 0)),
+                ()-> assertEquals(0, calc.devided(0, 4)),
+                ()-> assertEquals(5, calc.devided(5, 1))
+        );
+    }
 }
