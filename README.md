@@ -1,4 +1,4 @@
-## Demo app   [![Build Status](https://travis-ci.com/marcinESzulczyk/javaapp.svg?branch=master)](https://travis-ci.com/marcinESzulczyk/javaapp)
+## Demo app   [![Build Status](https://travis-ci.org/marcinESzulczyk/javaapp.svg?branch=master)](https://travis-ci.org/marcinESzulczyk/javaapp)
 
 #### Technologies
 
